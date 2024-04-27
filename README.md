@@ -7,4 +7,4 @@ It is 1 Hour video with quick learning about Golang.
 
 [1 Hour Golang YouTube Video](https://www.youtube.com/watch?v=8uiZC0l4Ajw)
 
-**Alex Mux is creator of this YouTube video** If you want to subscribe to his YouTube Channle, then use this URL - https://youtube.com/@mr_mux408?si=xKljk5S7n6kLKagK 
+**Alex Mux is creator of this YouTube video** If you want to subscribe to his [YouTube Channle, then use this URL](https://youtube.com/@mr_mux408?si=xKljk5S7n6kLKagK) 
