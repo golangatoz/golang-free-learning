@@ -1,7 +1,7 @@
-# golang-free-learning
+# Golang-Free-Learning
 This Golang A to Z repository will give you most useful information, materials, YouTube videos, Blog articles for learning Golang from scratch. 
 
-## GlangAtoZ-01 If you are new in Software Development field and want to learn Golang, then watch this YouTube video.
+## GolangAtoZ-01 If you are new in Software Development field and want to learn Golang, then watch this YouTube video.
 
 It is 1 Hour video with quick learning about Golang.
 
@@ -9,7 +9,7 @@ It is 1 Hour video with quick learning about Golang.
 
 **Alex Mux is creator of this YouTube video** If you want to subscribe to his [YouTube Channle, then use this URL](https://youtube.com/@mr_mux408?si=xKljk5S7n6kLKagK) 
 
-## GlangAtoZ-02 How to Read & Write files with Golang?
+## GolangAtoZ-02 How to Read & Write files with Golang?
 
 New Blog post by Shubham on dev.io [Read and Write files in Golang](https://dev.to/schadokar/read-and-write-files-in-golang-2b75)
 
