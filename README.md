@@ -9,12 +9,15 @@ It is 1 Hour video with quick learning about Golang.
 
 **Alex Mux is creator of this YouTube video** If you want to subscribe to his [YouTube Channle, then use this URL](https://youtube.com/@mr_mux408?si=xKljk5S7n6kLKagK) 
 
+
 ## GolangAtoZ-02 How to Read & Write files with Golang?
 
 New Blog post by Shubham on dev.io [Read and Write files in Golang](https://dev.to/schadokar/read-and-write-files-in-golang-2b75)
 
 
-## GolangAtoZ-03 Nice Blog by Rajeev Kumar Singh. Shivam is Full Stack Developer with 10+ years of experience.
+## GolangAtoZ-03 Nice Blog by Rajeev Kumar Singh. 
+
+Shivam is Full Stack Developer with 10+ years of experience.
 
 [Shivam Kumar Singh Blog](https://www.callicoder.com/)
 
