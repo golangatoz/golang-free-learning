@@ -23,3 +23,6 @@ Shivam is Full Stack Developer with 10+ years of experience.
 [Shivam Kumar Singh Blog](https://www.callicoder.com/)
 
 
+## GolangAtoZ-04 Popular LinkedIn Group for Golang community
+
+**GoNuts is popular** [LinkedIn Golang Group](https://www.linkedin.com/groups/3712244/)
