@@ -47,7 +47,7 @@ Popular LinkedIn Group for Golang community
 
 Golang Jobs by Martin from Vistas Recruitment, UK Contact No +44-208-123-2556 
 
-If you are looking for Golang Jobs then check this URL it has many Golang Jobs across the globe
+If you are looking for **Golang Jobs** then check this URL it has many Golang Jobs across the globe
 
 [Golang Jobs](https://www.golangprojects.com/)
 
