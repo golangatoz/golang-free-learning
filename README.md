@@ -6,7 +6,7 @@ This Golang A to Z repository will give you most useful information, materials, 
 
 ## GolangAtoZ-01 
 
-If you are new in Software Development field and want to learn Golang, then read and watch all following articles, blog post & videos.
+If you are new in Software Development field and want to **learn Golang**, then read and watch all following articles, blog post & videos.
 
 (1) Watch following 1 Hour YouTube video with quick learning and overview about Golang.
 
@@ -21,13 +21,13 @@ If you are new in Software Development field and want to learn Golang, then read
 
 How to Read & Write files with Golang?
 
-New Blog post by Shubham on dev.io [Read and Write files in Golang](https://dev.to/schadokar/read-and-write-files-in-golang-2b75)
+New Blog post by **Shubham** on dev.io [Read and Write files in Golang](https://dev.to/schadokar/read-and-write-files-in-golang-2b75)
 
 
 
 ## GolangAtoZ-03
 
-Callicoder - Nice Blog by Rajeev Kumar Singh 
+**Callicoder** - Nice Blog by **Rajeev Kumar Singh**
 
 Shivam is Full Stack Developer with 10+ years of experience.
 
@@ -37,7 +37,7 @@ Shivam is Full Stack Developer with 10+ years of experience.
 
 ## GolangAtoZ-04 
 
-Popular LinkedIn Group for Golang community
+Popular **LinkedIn Group for Golang community**
 
 **GoNuts is popular** [LinkedIn Golang Group](https://www.linkedin.com/groups/3712244/)
 
@@ -45,7 +45,7 @@ Popular LinkedIn Group for Golang community
 
 ## GolangAtoZ-05  
 
-Golang Jobs by Martin from Vistas Recruitment, UK Contact No +44-208-123-2556 
+Golang Jobs by **Martin from Vistas Recruitment**, UK Contact No +44-208-123-2556 
 
 If you are looking for **Golang Jobs** then check this URL it has many Golang Jobs across the globe
 
