@@ -1,5 +1,6 @@
 # Golang-Free-Learning
-This Golang A to Z repository will give you most useful information, materials, YouTube videos, Blog articles for learning Golang from scratch. 
+
+This Golang A to Z repository will give you most useful information, materials, YouTube videos, Blog articles, Golang Jobs. Keep visiting or follow this GitHub repository. 
 
 ## GolangAtoZ-01 If you are new in Software Development field and want to learn Golang, then read and watch all following articles, blog post & videos.
 
