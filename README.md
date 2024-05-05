@@ -59,3 +59,8 @@ If you are looking for **Golang Jobs** then check this URL it has many Golang Jo
 
 [A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
 
+If you want to read more about **Russ Cox** then [check this URL](https://swtch.com/~rsc/)
+
+
+
+
