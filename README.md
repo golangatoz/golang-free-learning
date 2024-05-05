@@ -65,5 +65,7 @@ If you want to read more about **Russ Cox** then [check this URL](https://swtch.
 
 ## GolangAtoZ-07
 
+The following website is build by **Mark McGranaghan**, who is engineer and entreprenuer. 
+
 [Learn **Golang Programming** by Examples](https://gobyexample.com/)
 
