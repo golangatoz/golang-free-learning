@@ -52,3 +52,10 @@ If you are looking for **Golang Jobs** then check this URL it has many Golang Jo
 [Golang Jobs](https://www.golangprojects.com/)
 
 
+
+## GolangAtoZ-06
+
+**Golang Tour** YouTube video by **Russ Cox** 
+
+[A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
+
